@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2015-07-24
+img: proj2.png
+alt: image-alt
+project-date: 2015-07-24
+client: ???
+category: Web Development
+description: Coming Soon
+---

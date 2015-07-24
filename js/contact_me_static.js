@@ -2,8 +2,15 @@ $(function() {
 
     $("input,textarea").jqBootstrapValidation({
         preventSubmit: true,
+        autoAdd: {helpBlocks: false},
         submitError: function($form, event, errors) {
-            // additional error messages or events
+            for(var o in errors) {
+                var el = $("[name='" + o + "']");
+                el.parent().addClass('has-error');
+                el.focus(function() {
+                    $(this).parent().removeClass('has-error');
+                });
+            }
         },
 
         filter: function() {
