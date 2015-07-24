@@ -17,8 +17,18 @@ $(function() {
 
 $(function() {
 
+    var direction = 1;
+
     $(window).scroll(function() {
-        var theta = $(window).scrollTop() / 100;
+        var scrollPos = $(window).scrollTop();
+
+        if(scrollPos === 0)
+            if(Math.random() < 0.5)
+                direction = -1;
+            else
+                direction = 1;
+
+        var theta = direction * $(window).scrollTop() / 100;
         $('#logo').css({ transform: 'rotate(' + theta + 'rad)' });
     });
 
