@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2015-03-01
+img: proj1.png
+alt: image-alt
+project-date: 2015-03-01
+client: Maui Junior Golf Association
+clientlink: http://mjga.net
+category: Web Design, Content Management
+description: Design and maintenance of Wordpress site for Maui Junior Golf Association, a non-profit organization. Manage social media and content creation.
+---
