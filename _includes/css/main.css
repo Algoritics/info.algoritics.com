@@ -164,8 +164,8 @@ header img {
 .navbar {
     text-transform: uppercase;
     font-weight: 700;
-    opacity: .95;
-    -webkit-backdrop-filter: blur(10px);
+    background: rgba(255,255,255,0.925);
+    -webkit-backdrop-filter: blur(20px);
 }
 
 .navbar a:focus {
@@ -186,7 +186,7 @@ header img {
 }
 
 .navbar-default .navbar-nav > li > a {
-  border-bottom: 4px solid white;
+  border-bottom: 4px solid transparent;
 }
 
 .navbar-default .navbar-nav > .active > a,
