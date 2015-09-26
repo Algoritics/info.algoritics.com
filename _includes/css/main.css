@@ -209,6 +209,7 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+    text-align: justify;
 }
 
 @media(max-width:767px) {
