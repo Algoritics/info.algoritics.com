@@ -4,9 +4,9 @@ modal-id: 4
 date: 2019-02-01
 img: proj4.png
 alt: image-alt
-project-date: 2015-05-01
+project-date: 2019-02-01
 client: Centauri
 clientlink: https://www.centauricorp.com/
-category: Simulation, Machine Learning
+category: Simulation, Machine Learning, Python, TensorFlow
 description: Software development for machine learning.
 ---

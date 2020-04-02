@@ -7,6 +7,6 @@ alt: image-alt
 project-date: 2016-01-01
 client: AlgorithmHub, Inc.
 clientlink: https://www.algorithmhub.com
-category: Full Stack Software Development
+category: Full Stack Software Development, NodeJS, Python
 description: Co-founder and CTO at AlgorithmHub SaaS startup.
 ---
