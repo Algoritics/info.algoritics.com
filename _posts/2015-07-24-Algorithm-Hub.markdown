@@ -5,8 +5,8 @@ date: 2016-01-01
 img: proj3.png
 alt: image-alt
 project-date: 2016-01-01
-client: MathNimbus, Inc.
-clientlink: #
+client: AlgorithmHub, Inc.
+clientlink: https://www.algorithmhub.com
 category: Full Stack Software Development
-description: Co-founder and lead software developer for AlgorithmHub SaaS startup.
+description: Co-founder and CTO at AlgorithmHub SaaS startup.
 ---
