@@ -1,9 +1,9 @@
 # Site settings
 title: Algoritics
 email: alexander.cabello@algoritics.com
-url: http://algoritics.com
+url: https://info.algoritics.com
 description: "Algoritics"
-skills: "Full Stack Software - Data Analysis - Graphic Design"
+skills: "Full Stack Software • Machine Learning • Graphic Design"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
