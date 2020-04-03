@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2017-06-01
-img: proj9.png
+img: proj7.png
 alt: image-alt
 project-date: 2017-06-01
 client: SNR Analytics
