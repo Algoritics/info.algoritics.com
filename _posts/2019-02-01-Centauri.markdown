@@ -8,5 +8,5 @@ project-date: 2019-02-01
 client: Centauri
 clientlink: https://www.centauricorp.com/
 category: Simulation, Machine Learning, Python, TensorFlow
-description: Simulation software development for training machine learning models.
+description: Simulation software development using GPGPU for training machine learning models.
 ---

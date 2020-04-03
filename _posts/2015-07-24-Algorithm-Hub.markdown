@@ -8,5 +8,5 @@ project-date: 2016-01-01
 client: AlgorithmHub, Inc.
 clientlink: https://www.algorithmhub.com
 category: Full Stack Software Development, NodeJS, Python
-description: Co-founder and CTO at AlgorithmHub, a platform as a service startup.
+description: Co-founder and CTO at AlgorithmHub, an open source platform for machine learning.
 ---
