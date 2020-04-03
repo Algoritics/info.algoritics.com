@@ -38,7 +38,7 @@ address:
   - line: Kahului, HI 96732
 
 # Credits content
-credits: 'Web design by <a href="https://www.linkedin.com/in/alexcabello">Alexander Cabello</a> of Algoritics'
+credits: 'Web design by <a href="https://www.linkedin.com/in/alexcabello">Alex Cabello</a> of Algoritics'
 
 # Build settings
 markdown: kramdown

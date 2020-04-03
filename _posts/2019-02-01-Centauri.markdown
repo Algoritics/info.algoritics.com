@@ -8,5 +8,5 @@ project-date: 2019-02-01
 client: Centauri
 clientlink: https://www.centauricorp.com/
 category: Simulation, Machine Learning, Python, TensorFlow
-description: Software development for machine learning.
+description: Simulation software development for training machine learning models.
 ---

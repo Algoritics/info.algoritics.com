@@ -8,5 +8,5 @@ project-date: 2015-05-01
 client: Abstract Aquatics
 clientlink: http://abstractaquatics.com
 category: Web Design, Logo Design
-description: Single page web design, logo design, and content creation for Maui pond contractor.
+description: Single page web design, logo design, and content creation.
 ---
